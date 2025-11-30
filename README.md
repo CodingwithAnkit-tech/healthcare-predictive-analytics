@@ -122,6 +122,13 @@ Enter patient details to get **Diabetes Risk Score**.
 
 
 ---
+## 🚀 Live Demo
+
+👉 **Open the deployed app here:**  
+🔗 https://ankit-diabetes-app.streamlit.app
+
+
+
 
 ## 👨‍💻 Author
 
@@ -133,4 +140,5 @@ Machine Learning | Data Science | Python Developer
 ## ⭐ Support the Project
 
 If you like this project, give it a **⭐ star** on GitHub!
+
 
