@@ -74,6 +74,7 @@ This will:
 - Fill missing values  
 - Save cleaned file  
 
+
 ---
 
 ## 🤖 Step 2 — Train the Machine Learning Model
@@ -142,6 +143,7 @@ Machine Learning | Data Science | Python Developer
 ## ⭐ Support the Project
 
 If you like this project, give it a **⭐ star** on GitHub!
+
 
 
 
