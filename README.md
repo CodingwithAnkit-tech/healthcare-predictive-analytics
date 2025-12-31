@@ -52,7 +52,7 @@ healthcare-predictive-analytics/
 - Python  
 - Pandas  
 - NumPy  
-- Scikit-Learn  
+- Scikit-Learn   
 - XGBoost  
 - Joblib  
 - Streamlit  
@@ -141,6 +141,7 @@ Machine Learning | Data Science | Python Developer
 ## ⭐ Support the Project
 
 If you like this project, give it a **⭐ star** on GitHub!
+
 
 
 
