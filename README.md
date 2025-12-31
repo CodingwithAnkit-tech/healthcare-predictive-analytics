@@ -51,6 +51,7 @@ healthcare-predictive-analytics/
 
 ## 🧠 Technical Stack
 
+
 **Languages & Libraries:**
 - Python  
 - Pandas  
@@ -144,6 +145,7 @@ Machine Learning | Data Science | Python Developer
 ## ⭐ Support the Project
 
 If you like this project, give it a **⭐ star** on GitHub!
+
 
 
 
