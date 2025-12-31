@@ -1,6 +1,6 @@
 # healthcare-predictive-analytics
 A complete Healthcare Predictive Analytics project using Machine Learning to predict disease risks such as diabetes. Includes data preprocessing, EDA, feature engineering, model training, evaluation, explainability (SHAP), and deployment.
-
+---
 # 🩺 Healthcare Predictive Analytics (Diabetes Risk Prediction)
 
 This project predicts **Diabetes Risk** using Machine Learning on the  
@@ -141,6 +141,7 @@ Machine Learning | Data Science | Python Developer
 ## ⭐ Support the Project
 
 If you like this project, give it a **⭐ star** on GitHub!
+
 
 
 
