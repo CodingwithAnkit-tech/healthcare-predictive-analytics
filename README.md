@@ -20,6 +20,8 @@ and a **Streamlit Web App** for real-time prediction.
 
 ---
 
+
+
 ## 📂 Project Folder Structure
 
 ```
@@ -140,6 +142,7 @@ Machine Learning | Data Science | Python Developer
 ## ⭐ Support the Project
 
 If you like this project, give it a **⭐ star** on GitHub!
+
 
 
 
