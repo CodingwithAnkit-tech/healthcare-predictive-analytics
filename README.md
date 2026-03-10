@@ -9,8 +9,6 @@ This project predicts **Diabetes Risk** using Machine Learning on the
 It includes end-to-end data processing, model training, evaluation,  
 and a **Streamlit Web App** for real-time prediction.
 
-
-
 ---
 
 ## 🚀 Features
@@ -145,6 +143,7 @@ Machine Learning | Data Science | Python Developer
 ## ⭐ Support the Project
 
 If you like this project, give it a **⭐ star** on GitHub!
+
 
 
 
