@@ -21,7 +21,6 @@ and a **Streamlit Web App** for real-time prediction.
 
 ---
 
-
 ## 📂 Project Folder Structure
 
 ```
